@@ -1,0 +1,5 @@
+Project 3
+Sean,Kyle,Tristan
+
+Discussion Log: We discussed with Prof. Fitzsimmons in office hours
+                We also talked with Tom about bugs we had
